@@ -50,8 +50,8 @@ Um emulador Android ou dispositivo físico.
 
 1. Clone o Repositório
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/Igorlimaponce/Gerador-de-Imagens-HuggingFace-.git
+cd Gerador-de-Imagens-HuggingFace
 
 2. Instale as Dependências
 
