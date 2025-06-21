@@ -2,16 +2,8 @@ Gerador de Imagens com IA - Projeto Flutter
 Este é um aplicativo móvel desenvolvido em Flutter como parte do trabalho do 2º bimestre. O aplicativo permite aos usuários gerar imagens únicas a partir de descrições de texto (prompts) utilizando uma API de Inteligência Artificial.
 
 Vídeo de Demonstração
-(coloque aqui o link para o seu vídeo de demonstração)
+https://github.com/user-attachments/assets/13503faa-bf49-415a-88d1-3bcaf1306141
 
-🖼️ Telas do Aplicativo
-Tela Principal
-
-Tela de Visualização
-
-[insira aqui uma imagem da tela principal]
-
-[insira aqui uma imagem da tela de visualização]
 
 ✨ Funcionalidades
 Geração de Imagens por IA: Digite um prompt de texto e a IA criará uma imagem baseada na sua descrição.
